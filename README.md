@@ -1,4 +1,4 @@
-# FreindsQuiz (A CLI based game)
+# FriendsQuiz (A CLI based game)
 
 ### [Click to play](https://replit.com/@Pra5/FriendsQuiz#index.js?embed=1&output=1)
 
